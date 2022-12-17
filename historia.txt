@@ -1,8 +1,5 @@
-test git
+Esta es la historia de Freddy Vega
 
-nueva linea
+Freddy Vega tiene 32 años y nació en Colombia
 
-otra linea
-
-nuevo
-
+Mañana nos enfocaremos en su vida laboral
